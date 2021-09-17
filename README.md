@@ -1,4 +1,4 @@
-# Ola galera, sou Felipe/Felix e sejam bem vindos ao meu perfil!!😁
+## Ola galera, sou Felipe/Felix e sejam bem vindos ao meu perfil!!😁
 
 <div>
   <a href = "https://github.com/FelipePereiraFelix">
