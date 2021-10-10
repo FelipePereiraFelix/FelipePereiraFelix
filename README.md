@@ -1,5 +1,10 @@
 ## Ola galera, sou Felipe/Felix e sejam bem vindos ao meu perfil!!😁
 
+- Jogo games quase todo dia apesar de eu quase não ter tempo atualmente🎮.
+- Estou estudando HTML, CSS e Javascript atualmente♨.
+- Gosto de comunicação e estudo por conta prórpria Marketing e Publicidade🗨.
+- Procuro aprender mais a cada dia, sou aberto a opiniões e ajudas✊.
+
 <div>
   <a href = "https://github.com/FelipePereiraFelix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
