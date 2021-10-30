@@ -11,8 +11,6 @@
 - Procuro aprender mais a cada dia, sou aberto a opiniões e ajudas✊.
 - Apaixonado por música também, ouço sempre enquanto estou códando🎵.
 
-<img align="center" height="250em" src="https://octodex.github.com/images/Fintechtocat.png">
-
 <div>
   <a href = "https://github.com/FelipePereiraFelix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">   
