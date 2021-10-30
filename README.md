@@ -2,7 +2,7 @@
      src="https://readme-typing-svg.herokuapp.com?lines=Sejam+bem+vindos+ao+meu+perfil+😁"
             alt="Typing SVG"/> 
  
- ## Ola galera, sou Felipe/Felix.
+ ## _Ola galera, sou Felipe/Felix._
  ### Um pouco sobre mim:
 
 - Jogo games quase todo dia apesar de eu quase não ter tempo atualmente🎮.
