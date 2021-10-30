@@ -4,6 +4,7 @@
 - Estou estudando HTML, CSS e Javascript atualmente♨.
 - Gosto de comunicação e estudo por conta prórpria Marketing e Publicidade🗨.
 - Procuro aprender mais a cada dia, sou aberto a opiniões e ajudas✊.
+- Apaixonado por música também, ouço sempre enquanto estou códando🎵.
 
 <div>
   <a href = "https://github.com/FelipePereiraFelix">
