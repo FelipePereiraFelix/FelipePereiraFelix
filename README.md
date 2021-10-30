@@ -7,14 +7,16 @@
 
 - Jogo games quase todo dia apesar de eu quase não ter tempo atualmente🎮.
 - Estou estudando HTML, CSS e Javascript atualmente♨.
-- Gosto de comunicação e estudo por conta prórpria Marketing e Publicidade🗨.
+- Gosto de comunicação e estudo por conta prórpria Marketing e Publicidade🗨.  
 - Procuro aprender mais a cada dia, sou aberto a opiniões e ajudas✊.
 - Apaixonado por música também, ouço sempre enquanto estou códando🎵.
 
+<img align="center" height="250em" src="https://octodex.github.com/images/Fintechtocat.png">
+
 <div>
   <a href = "https://github.com/FelipePereiraFelix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePereiraFelix&layout=compact&theme=algolia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePereiraFelix&layout=compact&theme=algolia">  
     </div>
   
   <div style="display: inline_block"><br>
