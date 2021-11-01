@@ -8,7 +8,7 @@
 - Jogo games quase todo dia apesar de eu quase não ter tempo atualmente🎮.
 - Estou estudando HTML, CSS e Javascript atualmente♨.
 - Gosto de comunicação e estudo por conta prórpria Marketing e Publicidade🗨.  
-- Procuro aprender mais a cada dia, sou aberto a opiniões e ajudas✊.
+- Amo aprender e também tenho disposição de ajudar quando vejo alguém que precisa de ajuda, e cada dia a dia em evolução✊.
 - Apaixonado por música também, ouço sempre enquanto estou códando🎵.
 
 <div>
