@@ -5,8 +5,8 @@
  ## _Ola galera, sou Felipe/Felix._
  ### Um pouco sobre mim:
 
-- Jogo games quase todo dia apesar de eu quase não ter tempo atualmente🎮.
-- Estou estudando HTML, CSS e Javascript atualmente♨.
+- Estou estudando Python, Jupyter e Power BI atualmente♨.
+- A procura de novos cursos de programação, se tiver recomendações estou aceitando. 
 - Gosto de comunicação e estudo por conta prórpria Marketing e Publicidade🗨.  
 - Amo aprender e também tenho disposição de ajudar quando vejo alguém que precisa de ajuda, e cada dia a dia em evolução✊.
 - Apaixonado por música também, ouço sempre enquanto estou códando🎵.
