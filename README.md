@@ -16,7 +16,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePereiraFelix&layout=compact&theme=algolia">  
     </div>
-  
+
+  ## _Minhas Linguagens e Aplicativos de Uso_
   <div style="display: inline_block"><br>
     <img align="center" alt="Felix-GITHUB" height="40" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
     <img align="center" alt="Felix-JS" height="40" width="30" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,6 +25,7 @@
     <img align="center" alt="Felix-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Felix-GIT" height="40" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
     <img align="center" alt="Felix-GITHUB" height="40" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+    <img align="center" alt="Felix-JS" height="40" width="30" src= "https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
   </div>
   
   ## _Meus Contatos_
