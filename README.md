@@ -10,12 +10,11 @@
 - Gosto de comunicação e estudo por conta prórpria Marketing e Publicidade🗨.  
 - Amo aprender e também tenho disposição de ajudar quando vejo alguém que precisa de ajuda, e cada dia a dia em evolução✊.
 - Apaixonado por música também, ouço sempre enquanto estou códando🎵.
-
 <div>
   <a href = "https://github.com/FelipePereiraFelix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePereiraFelix&layout=compact&theme=algolia">  
-    </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePereiraFelix&layout=compact&theme=synthwave">  
+</div>
 
   ## _Minhas Linguagens e Aplicativos de Uso_
   <div style="display: inline_block"><br>
@@ -34,7 +33,10 @@
     <a href="https://www.linkedin.com/in/felipe-pereira-b257b91a6"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://account.microsoft.com/profile/?refd=outlook.live.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://github.com/FelipePereiraFelix" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  
+       
+
+
 ![Snake animation](https://github.com/FelipePereiraFelix/FelipePereiraFelix/blob/output/github-contribution-grid-snake.svg)
+
     
 </div>
