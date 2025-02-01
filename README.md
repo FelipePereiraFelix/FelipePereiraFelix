@@ -1,5 +1,5 @@
 <img
-     src="https://readme-typing-svg.herokuapp.com?lines=Sejam+bem+vindos+ao+meu+perfil+😁"
+     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F7F1&width=435&lines=Sejam+bem+vindos+ao+meu+perfil+😁"
             alt="Typing SVG"/> 
  
  ## _Ola galera, sou Felipe/Felix._
