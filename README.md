@@ -18,16 +18,16 @@
 
   ## _Minhas Linguagens e Aplicativos de Uso_
   <div style="display: inline_block"><br>
-    <img align="center" alt="Felix-GITHUB" height="40" width="30" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg">
-    <img align="center" alt="Felix-GITHUB" height="40" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-    <img align="center" alt="Felix-JS" height="40" width="30" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Felix-HTML" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Felix-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Felix-GITHUB" height="40" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-    <img align="center" alt="Felix-GIT" height="40" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-    <img align="center" alt="Felix-GITHUB" height="40" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-    <img align="center" alt="Felix-JS" height="40" width="30" src= "https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
-    <img align="center" alt="Felix-GITHUB" height="40" width="30" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/powershell-auto.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+    <img align="center" alt="Felix-JS" height="100" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Felix-HTML" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Felix-CSS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+    <img align="center" alt="Felix-GIT" height="100" width="80" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+    <img align="center" alt="Felix-JS" height="100" width="80" src= "https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/powershell-auto.svg">
   </div>
   
   ## _Meus Contatos_
