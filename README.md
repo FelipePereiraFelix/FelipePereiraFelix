@@ -5,9 +5,8 @@
  ## _Ola galera, sou Felipe/Felix._
  ### Um pouco sobre mim:
 
-- Estou estudando Python, Jupyter e Back-end atualmente.
+- Com foco em Full-Stack
 - A procura de novos cursos de programação, se tiver recomendações estou aceitando. 
-- Gosto de comunicação e estudo por conta prórpria Marketing e Publicidade🗨.  
 - Amo aprender e também tenho disposição de ajudar quando vejo alguém que precisa de ajuda, e cada dia a dia em evolução✊.
 - Apaixonado por música também, ouço sempre enquanto estou códando🎵.
 <div>
@@ -15,19 +14,29 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePereiraFelix&layout=compact&theme=synthwave">  
 </div>
+       
+![rogstrix-background](https://github.com/user-attachments/assets/4da23307-7fe2-445c-a015-2dd5eb86195b)
+
 
   ## _Minhas Linguagens e Aplicativos de Uso_
   <div style="display: inline_block"><br>
-    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg">
-    <img align="center" alt="Felix-GITHUB" height="85" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+     <h1>Usos Diversos</h1>
+     <img align="center" alt="Felix-GIT" height="85" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+     <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg">
+     <img align="center" alt="Felix-GITHUB" height="85" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+     <img align="center" alt="Felix-GITHUB" height="85" width="70" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/docker.svg">
+     <h1>Front-End</h1>
     <img align="center" alt="Felix-JS" height="85" width="70" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Felix-HTML" height="85" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Felix-CSS" height="85" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Felix-GITHUB" height="85" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-    <img align="center" alt="Felix-GIT" height="85" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-    <img align="center" alt="Felix-GITHUB" height="85" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-    <img align="center" alt="Felix-JS" height="85" width="70" src= "https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
-    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/powershell-auto.svg">
+    <img align="center" alt="Felix-GITHUB" height="85" width="70" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vuejs-auto.svg">
+     <h1>Back-End</h1>
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/dbeaver-auto.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mysql-auto.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nestjs-auto.svg">
   </div>
   
   ## _Meus Contatos_
