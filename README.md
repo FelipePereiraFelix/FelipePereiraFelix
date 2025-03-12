@@ -9,10 +9,11 @@
 - A procura de novos cursos de programação, se tiver recomendações estou aceitando. 
 - Amo aprender e também tenho disposição de ajudar quando vejo alguém que precisa de ajuda, e cada dia a dia em evolução✊.
 - Apaixonado por música também, ouço sempre enquanto estou códando🎵.
+  
 <div>
   <a href = "https://github.com/FelipePereiraFelix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePereiraFelix&layout=compact&theme=synthwave">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true">   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePereiraFelix&layout=compact&theme=radical">  
 </div>
        
 ![rogstrix-background](https://github.com/user-attachments/assets/4da23307-7fe2-445c-a015-2dd5eb86195b)
