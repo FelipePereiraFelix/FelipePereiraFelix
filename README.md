@@ -33,11 +33,14 @@
     <img align="center" alt="Felix-GITHUB" height="85" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
     <img align="center" alt="Felix-GITHUB" height="85" width="70" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vuejs-auto.svg">
      <h1>Back-End</h1>
-    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/dbeaver-auto.svg">
-    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg">
-    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg">
-    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mysql-auto.svg">
     <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nestjs-auto.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/typescript.svg">
+    <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg">
+     <h1>Banco de Dados</h1>
+      <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mysql-auto.svg">
+      <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postgresql-auto.svg">
+      <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg">
+      <img align="center" alt="Felix-GITHUB" height="100" width="80" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/dbeaver-auto.svg">
   </div>
   
   ## _Meus Contatos_
