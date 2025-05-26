@@ -13,8 +13,8 @@
   
 <div>
   <a href = "https://github.com/FelipePereiraFelix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=vaporwave&include_all_commits=true&count_private=true">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePereiraFelix&layout=compact&theme=radical">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePereiraFelix&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true">   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePereiraFelix&layout=compact&theme=codeSTACKr">  
 </div>
        
 ![rogstrix-background](https://github.com/user-attachments/assets/4da23307-7fe2-445c-a015-2dd5eb86195b)
