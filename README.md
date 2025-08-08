@@ -9,7 +9,7 @@
 - A procura de novos cursos de programação, se tiver recomendações estou aceitando. 
 - Amo aprender e também tenho disposição de ajudar quando vejo alguém que precisa de ajuda, e cada dia a dia em evolução✊.
 - Apaixonado por música também, ouço sempre enquanto estou códando🎵.
-- Curiosidade é a Chave para o Crescimento
+- Cursando Segurança da Informação
   
 <div>
   <a href = "https://github.com/FelipePereiraFelix">
